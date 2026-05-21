@@ -24,5 +24,4 @@ A simple and responsive Cake Shop Website built using HTML, CSS, JavaScript, PHP
 4. Start Apache & MySQL
 5. Open `http://localhost/project-folder-name`
 
-## Author
-Your Name
+
